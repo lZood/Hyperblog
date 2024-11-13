@@ -1,4 +1,4 @@
-Este es el archivo de inicio para los commits de mi pagina web de prueba
+Este es el archivo de inicio para los commits de mi pagina web de prueba con html y css
 
 Jose Carlos Ramirez Lopez
 13 de Noviembre 2024 a las 9:17 AM

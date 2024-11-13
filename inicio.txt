@@ -2,3 +2,5 @@ Este es el archivo de inicio para los commits de mi pagina web de prueba con htm
 
 Jose Carlos Ramirez Lopez
 13 de Noviembre 2024 a las 9:17 AM
+
+Mañana comenzare con una prueba de pagina web basica, ahora por el momento perfeccionare git

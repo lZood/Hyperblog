@@ -1,6 +1,4 @@
-Este es el archivo de prueba para github
+Este es el archivo de inicio para los commits de mi pagina web de prueba
 
 Jose Carlos Ramirez Lopez
-13 de Noviembre 2024 a las 9 AM
-
-Tambien agrego una modificacion para verificar que hubo una
+13 de Noviembre 2024 a las 9:17 AM

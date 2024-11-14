@@ -8,6 +8,12 @@ body
     padding: 0;
 }
 
+#logo {
+    height: 1em; /* Ajusta la altura de la imagen al tamaño de la fuente */
+    vertical-align: middle; /* Alinea la imagen con el texto */
+    margin-right: 0.5em; /* Espacio entre el logo y el texto */
+}
+
 #cabecera 
 {
     background: #33A;

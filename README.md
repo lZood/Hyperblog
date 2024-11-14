@@ -9,6 +9,10 @@ Este blog esta hecho con fines de aprendera utilizar Git y Github de manera prof
 * El correcto uso de las buenas practicas
 * Trucos para optimizar tiempo
 * Y un poco acerca de DevOps
+* Incluye imagenes cargadas en rep locales y en linea 
+* Compatible con ambas pcs
+
+# Creado por el cuchu toys
 
 # Creado por el cuchu toys
 

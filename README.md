@@ -2,6 +2,7 @@
 
 Este blog esta hecho con fines de aprendera utilizar Git y Github de manera profesional.
 ![Yo ](https://i.imgur.com/0fbOKPM.jpeg "Yo ")
+
 ##En estos cursos aprendí muchisimas cosas de Git como por ejemplo:
 * Todos los comandos en Git
 * Flujo de trabajo profesional en Github

@@ -4,3 +4,6 @@ Jose Carlos Ramirez Lopez
 13 de Noviembre 2024 a las 9:17 AM
 
 Mañana comenzare con una prueba de pagina web basica, ahora por el momento perfeccionare git
+
+Se agrego tambien la capacidad de poder trabajar en la computadora de escritorio
+13 de Noviembre 2024 a las 8:34 PM
